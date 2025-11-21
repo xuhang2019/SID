@@ -1,0 +1,10 @@
+datasets==3.6.0
+fire==0.7.0
+joblib==1.5.1
+numpy==2.3.5
+pandas==2.3.3
+rich==14.2.0
+torch==2.7.1
+tqdm==4.67.1
+transformers==4.55.0
+wrapt_timeout_decorator==1.5.1
