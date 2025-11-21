@@ -38,20 +38,6 @@ python exp_mllm.py --model_name=<model> --strategy=<strategy> --dataset=<dataset
 
 More optional parameters can be found in `exp_llm.py/exp_mllm.py` or `config.py`.
 
-## Citation
-
-If you find this repo useful, please cite our paper. 
-```
-@misc{chen2025sidmultillmdebatedriven,
-      title={SID: Multi-LLM Debate Driven by Self Signals}, 
-      author={Xuhang Chen and Zhifan Song and Deyi Ji and Shuo Gao and Lanyun Zhu},
-      year={2025},
-      eprint={2510.06843},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2510.06843}, 
-}
-```
 
 ## Acknowledgement
 
